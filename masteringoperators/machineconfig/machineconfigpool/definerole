@@ -1,0 +1,3 @@
+#define a role
+#worker1g is the newrole
+oc label node <node-name> node-role.kubernetes.io/worker1g=
